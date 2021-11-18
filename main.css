@@ -18,7 +18,7 @@
 .navbar{
     display: flex;
     /* position: fixed; */
-    position: ;
+    position: sticky;
     top: 0;
 }
 
